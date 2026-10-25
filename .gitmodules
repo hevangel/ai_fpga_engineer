@@ -1,0 +1,6 @@
+[submodule "snickerdoodle"]
+	path = snickerdoodle
+	url = https://github.com/hevangel/snickerdoodle.git
+[submodule "external/pynq4-snickerdoodle-pismasher"]
+	path = external/pynq4-snickerdoodle-pismasher
+	url = https://github.com/eexma67/pynq4-snickerdoodle-pismasher.git
